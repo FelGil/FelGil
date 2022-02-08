@@ -1,7 +1,14 @@
 ### Välkommen till min GIT-sida
 
-Studerar just nu en webbutvecklingslinje på MIUN
+Här är några av de kurser jag fått läsa:
 
-- Får lära mig de mesta
-- Här samlar jag några av mina olika inlämningsuppgifter
-- Annat jag gör är att lyssna på lp-skivor och dyka
+- Webbutvckling I, II, samt III
+- JavaScriptbaserad webbutveckling
+- Programmering i C# .NET
+- Digital bildbehandling
+- Typografi
+- Projektledning
+- Databaser
+- Webbanvändbarvänlighet
+- Webbdesign för CMS
+- Webbdesign
