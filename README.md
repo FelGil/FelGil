@@ -1,4 +1,4 @@
-### Välkommen till min GIT-sida ❤
+### Välkommen till min GIT-sida
 
 Pluggar just nu en webbutvecklingslinje på MIUN
 
