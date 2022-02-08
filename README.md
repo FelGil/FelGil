@@ -1,6 +1,7 @@
 ### Välkommen till min GIT-sida
 
-Pluggar just nu en webbutvecklingslinje på MIUN
+Studerar just nu en webbutvecklingslinje på MIUN
 
-- Albinobjärn
-- Gul Hopp Fisk 🐠
+- Får lära mig de mesta
+- Här samlar jag några av mina olika inlämningsuppgifter
+- Annat jag gör är att lyssna på lp-skivor och dyka
